@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(255, 228, 196);
+}
+#container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: start;
+    width: 600px;
+    height:600px;
+}
+#lightBlue{
+    background-color: rgb(0, 255, 255);
+    height: 60px;
+    width: 100%;
+
+}
+#orange{
+    background: rgb(255, 165, 0);
+    width: 60px;
+    height: 480px;
+}
+#red{
+    background-color: red;
+    width: 400px;
+    margin-right: 40px;
+    margin-left: 40px ;
+    height: 480px;
+}
+#purple{
+    background-color: rgb(128, 0, 128);
+    width: 60px;
+    height: 480px;
+}
+#darkBlue{
+    background-color: rgb(0, 0, 255);
+    height: 60px;
+    width: 100%;
+}
+#black{
+    background-color: black;
+    width: 30px;
+    height: 30px;
+    margin-top: 530px;
+    margin-left: 1300px;
+}
